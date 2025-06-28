@@ -28,6 +28,7 @@ A modern, interactive desktop drawing application built using **JavaFX**, enhanc
 * **IntelliJ IDEA** for development
 
 ---
+
 ## 🚀 How to Run?
 1. Clone the repository  
    `git clone https://github.com/AbdoHamdy15/PaintBrush-JavaFX.git`
@@ -35,15 +36,14 @@ A modern, interactive desktop drawing application built using **JavaFX**, enhanc
 3. Make sure JavaFX libraries are properly set up
 4. Run the `PaintBrush` class from `org.example.paintbrushfx`
 5. (Optional) Build the project into a `.jar` using IntelliJ artifacts
+
 ---
+
 ## 👨‍💻 Authors:
-👩‍💻 Authors  
-- [@nour-allah-khaled](https://github.com/nour-allah-khaled)  
 - [@AbdoHamdy15](https://github.com/AbdoHamdy15)  
+- [@nour-allah-khaled](https://github.com/nour-allah-khaled)
 
-
-
-
+---
 
 ### 📖 Tags
 
