@@ -42,6 +42,7 @@ A modern, interactive desktop drawing application built using **JavaFX**, enhanc
 ## 👨‍💻 Authors:
 - [@AbdoHamdy15](https://github.com/AbdoHamdy15)  
 - [@nour-allah-khaled](https://github.com/nour-allah-khaled)
+- Samah Daif
 
 ---
 
