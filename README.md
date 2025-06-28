@@ -20,7 +20,7 @@ A modern, interactive desktop drawing application built using **JavaFX**, enhanc
 
 ## 🧠 Technologies Used
 
-* **Java 21**
+* **Java 22**
 * **JavaFX**
 * **JFoenix** (Material Design components)
 * **Ikonli** (Icon fonts)
