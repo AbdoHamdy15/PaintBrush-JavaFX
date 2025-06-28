@@ -37,8 +37,10 @@ A modern, interactive desktop drawing application built using **JavaFX**, enhanc
 5. (Optional) Build the project into a `.jar` using IntelliJ artifacts
 ---
 ## 👨‍💻 Authors:
-@AbdoHamdy15
-@nour-allah-khaled
+👩‍💻 Authors  
+- [@nour-allah-khaled](https://github.com/nour-allah-khaled)  
+- [@AbdoHamdy15](https://github.com/AbdoHamdy15)  
+
 
 
 
